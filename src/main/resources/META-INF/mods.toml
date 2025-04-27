@@ -1,0 +1,12 @@
+
+modLoader="javafml"
+loaderVersion="[55,)"
+license="All Rights Reserved"
+[[mods]]
+modId="galacticfrontiers"
+version="1.0.0"
+displayName="GalacticFrontiers"
+authors="KnoxHack"
+description='''
+Explore the stars with GalacticFrontiers! Launch rockets, colonize the void, and survive the unknown.
+'''

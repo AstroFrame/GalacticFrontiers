@@ -1,0 +1,12 @@
+{
+    "space_ambient": {
+        "category": "ambient",
+        "subtitle": "Space ambient sounds",
+        "sounds": [
+            {
+                "name": "galacticfrontiers:sounds/space_ambient",
+                "stream": true
+            }
+        ]
+    }
+}

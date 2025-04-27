@@ -1,0 +1,18 @@
+{
+    "block.galacticfrontiers.launch_pad_block": "Launch Pad Block",
+    "block.galacticfrontiers.gravity_generator_block": "Gravity Generator",
+    "block.galacticfrontiers.shield_generator_block": "Shield Generator",
+    "block.galacticfrontiers.solar_panel_block": "Solar Panel",
+    "block.galacticfrontiers.nuclear_reactor_block": "Nuclear Reactor",
+    "item.galacticfrontiers.launch_pad_block": "Launch Pad",
+    "item.galacticfrontiers.gravity_generator_block": "Gravity Generator",
+    "item.galacticfrontiers.shield_generator_block": "Shield Generator",
+    "item.galacticfrontiers.solar_panel_block": "Solar Panel",
+    "item.galacticfrontiers.nuclear_reactor_block": "Nuclear Reactor",
+    "entity.galacticfrontiers.meteor": "Meteor",
+    "entity.galacticfrontiers.alien": "Alien",
+    "entity.galacticfrontiers.alien_boss": "Alien Boss",
+    "entity.galacticfrontiers.space_bike": "Space Bike",
+    "entity.galacticfrontiers.mini_drone": "Mini Drone",
+    "sound.galacticfrontiers.space_ambient": "Space Ambient"
+}

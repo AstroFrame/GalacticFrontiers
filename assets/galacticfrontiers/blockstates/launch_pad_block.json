@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "galacticfrontiers:block/launch_pad_block"
+        }
+    }
+}

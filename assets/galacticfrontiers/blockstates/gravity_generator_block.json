@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "galacticfrontiers:block/gravity_generator_block"
+        }
+    }
+}

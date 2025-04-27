@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "galacticfrontiers:block/shield_generator_block"
+        }
+    }
+}

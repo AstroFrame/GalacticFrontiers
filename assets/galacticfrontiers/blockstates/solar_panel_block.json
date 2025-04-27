@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "galacticfrontiers:block/solar_panel_block"
+        }
+    }
+}
